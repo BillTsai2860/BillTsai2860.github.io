@@ -2,78 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://BillTsai2860.github.io/pt-br/about/</loc>
+    <loc>http://localhost:1313/pt-br/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://BillTsai2860.github.io/about/"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://BillTsai2860.github.io/pt-br/about/"
+                href="http://localhost:1313/pt-br/about/"
                 />
   </url><url>
-    <loc>https://BillTsai2860.github.io/pt-br/</loc>
+    <loc>http://localhost:1313/pt-br/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://BillTsai2860.github.io/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://BillTsai2860.github.io/pt-br/"
+                href="http://localhost:1313/pt-br/"
                 />
   </url><url>
-    <loc>https://BillTsai2860.github.io/pt-br/categories/</loc>
+    <loc>http://localhost:1313/pt-br/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://BillTsai2860.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://BillTsai2860.github.io/pt-br/categories/"
+                href="http://localhost:1313/pt-br/categories/"
                 />
   </url><url>
-    <loc>https://BillTsai2860.github.io/pt-br/contact/</loc>
+    <loc>http://localhost:1313/pt-br/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://BillTsai2860.github.io/contact/"
+                href="http://localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://BillTsai2860.github.io/pt-br/contact/"
+                href="http://localhost:1313/pt-br/contact/"
                 />
   </url><url>
-    <loc>https://BillTsai2860.github.io/pt-br/projects/</loc>
+    <loc>http://localhost:1313/pt-br/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://BillTsai2860.github.io/projects/"
+                href="http://localhost:1313/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://BillTsai2860.github.io/pt-br/projects/"
+                href="http://localhost:1313/pt-br/projects/"
                 />
   </url><url>
-    <loc>https://BillTsai2860.github.io/pt-br/tags/</loc>
+    <loc>http://localhost:1313/pt-br/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://BillTsai2860.github.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://BillTsai2860.github.io/pt-br/tags/"
+                href="http://localhost:1313/pt-br/tags/"
                 />
   </url>
 </urlset>

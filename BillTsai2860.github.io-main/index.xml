@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>工程師岳勳</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 工程師岳勳</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>我是Bill（蔡岳勳），畢業於台北科技大學通訊所，曾在義隆電子擔任機構工程師，目前是致茂電子軟體工程師。開心與大家一同一起學習成長🚀</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>個人的研究事務紀錄：</description>
+    </item>
+    <item>
+      <title>與我聯繫</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>如果有任何想法或需求，不仿動動小手與我聯繫 bill28602860@gmail.com @Bill Tsai.</description>
+    </item>
+  </channel>
+</rss>
